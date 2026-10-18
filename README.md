@@ -9,7 +9,7 @@ Foco em backend e estou evoluindo aos poucos para fullstack. Cibersegurança é 
 ## Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,css,html,postgres,aws,react,vite,mui,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,css,html,postgres,aws,react,vite,mui,git,github,linux,kali" />
 </p>
 
 ## Projetos em destaque
